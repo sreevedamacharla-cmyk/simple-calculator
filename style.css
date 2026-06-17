@@ -3,7 +3,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 80px;
+  margin: 50px;
 }
 
 .container {
@@ -97,7 +97,7 @@ body {
 @media (max-width: 600px) {
   .container {
     width: 95vw;
-    height: 90vh;
+    height: 85vh;
   }
 
   .displaymain {
